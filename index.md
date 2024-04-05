@@ -1,4 +1,4 @@
-# FlavorForge: Recipes for minimal kitchens and minimal cost
+# FlavorForge: <br /> Recipes for minimal kitchens and minimal cost
 
 ## Overview
 
