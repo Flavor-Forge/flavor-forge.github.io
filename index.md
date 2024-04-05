@@ -1,4 +1,4 @@
-# FlavorForge: Quick and easy recipes
+# FlavorForge: Recipes for minimal kitchens and minimal cost
 
 ## Overview
 
@@ -10,36 +10,61 @@ FlavorForge aims to revolutionize how college students approach cooking by provi
 * Students will be able to sort recipes by categories
 * User can give a budget and recipes will be shown by price
 
-### Home/Main Page
+### Home Page
 
-The home page is what users will be the first page seen when logged in. There will be information about pending requests for card trading, and the amount of card 
+The home page will be the first page seen when logged in. There will be a main image, information about the website and a featured recipe. The navbar at the top will have links leading to the other pages
 
-packages they currently have. Users will be able to open the package on this page and accept or deny the trading request
+![](images/homepage.png)
 
-![](images/main.png)
+### Recipe Page
 
-### Your card collection
+The recipe page will have the name of the recipe at the top, a descripton of the dish, the recipe's ingredients, and the recipe instructions. On the right of the recipe information will be an image of the dish.
 
-This is where users can see what card they currently have. Listing out all the cards and they can click on it to view more information about the card
+![](images/recipepage.png)
 
-![](images/card-list.png)
+### Edit Recipe Page
 
-### Friend list page
+This page will be basically the same as the recipe page, but using forms in each section instead of text.
 
-This page is designed for users to manage their friend list. By clicking on a friend's profile, users can view the cards owned by that friend and initiate trade requests directly from there. Additionally, users have the flexibility to add new friends or remove existing ones by simply entering their username.
+![](images/editrecipepage.png)
 
-![](images/friend-list.png)
+### Recipe List Page
 
-### Card Collection
+This page will show a list of recipes in the form of cards. Each card will have the name of the dish, an image of the dish, and its cost.
 
-This page will showcase all available cards within the application. However, users will only gain access to card information for those they own, ensuring a personalized and relevant browsing experience.
+![](images/recipelistpage.png)
 
-![](images/collections.png)
+### Edit Recipe List Page
+
+This page will be similar to the recipe list page, but will have a delete button and an edit button. It will only be available by admins.
+
+![](images/editrecipelistpage.png)
+
+### Profile Page
+
+This page will have a profile picture, a profile name, and any optional information. Recipes the user posted and the user's favorite recipes will be shown on the right.
+
+![](images/profilepage.png)
+
+### Edit Profile Page
+
+This page will allow the user to reupload a profile picture and edit information and their associated recipes.
+
+![](images/profileeditpage.png)
+
+### Login Page
+
+This is the first page that is shown when opening the site. This is where a user can both login and sign up with a form.
+
+![](images/loginpage.png)
 
 ### Team
 
-Team member:
-* [Phat Ca](https://github.com/PhatCa).
-* [Adam Winfield-Smith](https://github.com/adamwins).
-* [Sean Fuji](https://github.com/seanf2UH).
-* [Jakin Wade](https://github.com/JakinWade).
+Team members:
+* [Weibin Wu](https://github.com/Weibin808).
+* [Junjie Yu](https://github.com/junjieyu808).
+* [Jason Aguda](https://github.com/Jaguda01).
+* [Christian Yang](https://github.com/ccyang617).
+* [Angello Portello](https://github.com/AngePort).
+
+[M1 Project](https://github.com/orgs/Lovin-Toaster-Oven/projects/1).
