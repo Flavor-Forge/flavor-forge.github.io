@@ -61,10 +61,10 @@ This is the first page that is shown when opening the site. This is where a user
 ### Team
 
 Team members:
-* [Weibin Wu](https://github.com/Weibin808).
-* [Junjie Yu](https://github.com/junjieyu808).
-* [Jason Aguda](https://github.com/Jaguda01).
-* [Christian Yang](https://github.com/ccyang617).
 * [Angello Portello](https://github.com/AngePort).
+* [Christian Yang](https://github.com/ccyang617).
+* [Jason Aguda](https://github.com/Jaguda01).
+* [Junjie Yu](https://github.com/junjieyu808).
+* [Weibin Wu](https://github.com/Weibin808).
 
 [M1 Project](https://github.com/orgs/Lovin-Toaster-Oven/projects/1).
