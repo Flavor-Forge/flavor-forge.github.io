@@ -46,7 +46,7 @@ Team members:
 ### Progress
 [M1 Project](https://github.com/orgs/Lovin-Toaster-Oven/projects/1)
 
-[M2 Project](https://github.com/orgs/Lovin-Toaster-Oven/projects/2)
+[M2 Project](https://github.com/orgs/Lovin-Toaster-Oven/projects/3)
 
 [Deployment](http://159.223.193.159)
 
