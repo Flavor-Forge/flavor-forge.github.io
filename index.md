@@ -22,41 +22,17 @@ The recipe page will have the name of the recipe at the top, a descripton of the
 
 ![](images/recipepage.png)
 
-### Edit Recipe Page
-
-This page will be basically the same as the recipe page, but using forms in each section instead of text.
-
-![](images/editrecipepage.png)
-
 ### Recipe List Page
 
 This page will show a list of recipes in the form of cards. Each card will have the name of the dish, an image of the dish, and its cost.
 
 ![](images/recipelistpage.png)
 
-### Edit Recipe List Page
-
-This page will be similar to the recipe list page, but will have a delete button and an edit button. It will only be available by admins.
-
-![](images/editrecipelistpage.png)
-
 ### Profile Page
 
 This page will have a profile picture, a profile name, and any optional information. Recipes the user posted and the user's favorite recipes will be shown on the right.
 
 ![](images/profilepage.png)
-
-### Edit Profile Page
-
-This page will allow the user to reupload a profile picture and edit information and their associated recipes.
-
-![](images/profileeditpage.png)
-
-### Login Page
-
-This is the first page that is shown when opening the site. This is where a user can both login and sign up with a form.
-
-![](images/loginpage.png)
 
 ### Team
 
@@ -67,4 +43,8 @@ Team members:
 * [Junjie Yu](https://github.com/junjieyu808).
 * [Weibin Wu](https://github.com/Weibin808).
 
+[Deployment](http://159.223.193.159)
+
+## Progress
 [M1 Project](https://github.com/orgs/Lovin-Toaster-Oven/projects/1).
+[M2 Project](https://github.com/orgs/Lovin-Toaster-Oven/projects/2)
