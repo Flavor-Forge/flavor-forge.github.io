@@ -44,7 +44,7 @@ Team members:
 * [Weibin Wu](https://github.com/Weibin808).
 
 [Deployment](http://159.223.193.159)
-
+[GitHub](https://github.com/Lovin-Toaster-Oven)
 ## Progress
 [M1 Project](https://github.com/orgs/Lovin-Toaster-Oven/projects/1).
 [M2 Project](https://github.com/orgs/Lovin-Toaster-Oven/projects/2)
