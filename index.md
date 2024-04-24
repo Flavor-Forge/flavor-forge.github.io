@@ -34,6 +34,19 @@ This page will have a profile picture, a profile name, and any optional informat
 
 ![](images/profilepage.png)
 
+### Developer Guide
+
+First, install * [Meteor](https://docs.meteor.com/install.html).
+
+Second, go to the * [Flavor-Forge application github page](https://github.com/flavor-forge.html) and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+
+Third, cd into the bowfolios/app directory and install libraries with:
+
+```$ meteor npm install```
+
+Fourth, run the system with:
+```$ meteor npm run start```
+If successful, the application will appear at * [http://http://localhost:3000/](http://localhost:3000/).
 ### Team
 
 Team members:
