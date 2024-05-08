@@ -1,68 +1,88 @@
-# FlavorForge: <br /> Recipes for minimal kitchens and minimal cost
+# FlavorForge <br/> Let us cook
+
+Welcome to FlavorForge, your go-to platform for affordable and delicious recipes tailored for college students! Here's everything you need to know about our project:
 
 ## Overview
 
-FlavorForge aims to revolutionize how college students approach cooking by providing a platform where they can easily discover and share recipes that are tailored to their limited resources and dietary preferences. Our goal is to empower students to cook nutritious and delicious meals using minimal kitchen facilities and ingredients that are readily available near their campus.
+FlavorForge is designed to revolutionize the way college students approach cooking. Our platform provides a space where students can easily discover and share recipes that are perfectly suited to their limited resources and dietary preferences. Our goal is to empower students to cook nutritious and tasty meals using minimal kitchen facilities and readily available ingredients near their campus.
 
-## Our Vision
-
-* Allow students to share and view recipes
-* Students will be able to sort recipes by categories
-* User can give a budget and recipes will be shown by price
+## User Guide
 
 ### Home Page
 
-The home page will be the first page seen when logged in. There will be a main image, information about the website and a featured recipe. The navbar at the top will have links leading to the other pages
+Our homepage serves as the central hub of FlavorForge. Here's what you can find:
 
-![](images/homepage.png)
+- **Main Image**: Captivating visuals to entice your culinary senses.
+- **Website Information**: A brief overview of FlavorForge and its mission.
+- **Featured Recipe**: A spotlight on one of our top recipes to inspire your next cooking adventure.
+- **Navigation Bar**: Quick access to other sections of the website.
+
+![Homepage](images/homepage.png)
 
 ### Recipe Page
 
-The recipe page will have the name of the recipe at the top, a descripton of the dish, the recipe's ingredients, and the recipe instructions. On the right of the recipe information will be an image of the dish.
+Dive into the details of each recipe on our Recipe Page:
 
-![](images/recipepage.png)
+- **Recipe Name**: Clearly labeled at the top for easy reference.
+- **Rating**: Users can rate the recipe from 0 to 5 starts
+- **Description**: Learn about the dish and what makes it special.
+- **Ingredients**: A list of all the ingredients you'll need.
+- **Instructions**: Step-by-step guide to cooking the perfect dish.
+- **Image**: Visual representation of the final product.
+
+![Recipe Page](images/recipepage.png)
 
 ### Recipe List Page
 
-This page will show a list of recipes in the form of cards. Each card will have the name of the dish, an image of the dish, and its cost.
+Browse through our collection of recipes with ease on the Recipe List Page:
 
-![](images/recipelistpage.png)
+- **Recipe Cards**: Each card displays the dish name, image, and cost.
+- **Cost**: See how budget-friendly each recipe is at a glance.
+
+![Recipe List Page](images/recipelistpage.png)
 
 ### Profile Page
 
-This page will have a profile picture, a profile name, and any optional information. Recipes the user posted and the user's favorite recipes will be shown on the right.
+Customize your FlavorForge experience on your Profile Page:
 
-![](images/profilepage.png)
+- **Profile Picture**: Personalize your profile with a picture.
+- **Profile Name**: Your unique identifier on FlavorForge.
+- **User Information**: Optional details to share with the community.
+- **Posted Recipes**: Showcase your culinary creations.
+- **Favorite Recipes**: Keep track of recipes you love.
 
-### Developer Guide
+![Profile Page](images/profilepage.png)
 
-First, install [Meteor](https://docs.meteor.com/install.html).
+## Community Feedback
 
-Second, go to the [Flavor-Forge application github page](https://github.com/flavor-forge.html) and click the “Use this template” button to create your own repository initialized with a copy of this application. Alternatively, you can download the sources as a zip file or make a fork of the repo. However you do it, download a copy of the repo to your local computer.
+We gathered feedback from five community members who tried out FlavorForge. Here's what we learned:
 
-Third, cd into the bowfolios/app directory and install libraries with:
+[Include findings from community feedback here.]
 
-```$ meteor npm install```
+## Developer Guide
 
-Fourth, run the system with:
-```$ meteor npm run start```
-If successful, the application will appear at [http://http://localhost:3000/](http://localhost:3000/).
-### Team
+Ready to dive into development? Follow these steps:
 
-Team members:
-* [Angello Portello](https://github.com/AngePort).
-* [Christian Yang](https://github.com/ccyang617).
-* [Jason Aguda](https://github.com/Jaguda01).
-* [Junjie Yu](https://github.com/junjieyu808).
-* [Weibin Wu](https://github.com/Weibin808).
+1. Install [Meteor](https://docs.meteor.com/install.html).
+2. Clone the [Flavor-Forge repository](https://github.com/Flavor-Forge) to your local machine.
+3. Navigate to the `bowfolios/app` directory.
+4. Install dependencies with:
+   ```sh
+   $ meteor npm install
+   $ meteor npm install --save react-star-ratings
+   ```
+5. Run the system:
+   ```sh
+   $ meteor npm run start
+   ```
+6. Access the application at [http://localhost:3000/](http://localhost:3000/).
 
-### Progress
-[M1 Project](https://github.com/orgs/Flavor-Forge/projects/1)
+## Links
 
-[M2 Project](https://github.com/orgs/Flavor-Forge/projects/3)
+- **GitHub Organization**: [Flavor-Forge](https://github.com/Flavor-Forge)
+- **Running Deployment**: [FlavorForge on Digital Ocean](http://159.223.193.159)
+- **M1 Project**: [M1 Project Page](https://github.com/orgs/Flavor-Forge/projects/1)
+- **M2 Project**: [M2 Project Page](https://github.com/orgs/Flavor-Forge/projects/3)
+- **M3 Project**: [M3 Project Page](https://github.com/orgs/Flavor-Forge/projects/5)
 
-[M3 Project](https://github.com/orgs/Flavor-Forge/projects/5)
-
-[Deployment](http://159.223.193.159)
-
-[GitHub](https://github.com/Flavor-Forge)
+Thank you for being a part of the FlavorForge community! Happy cooking! 🍳🔥
