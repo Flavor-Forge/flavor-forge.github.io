@@ -17,7 +17,7 @@ Our homepage serves as the central hub of FlavorForge. Here's what you can find:
 - **Featured Recipe**: A spotlight on one of our top recipes to inspire your next cooking adventure.
 - **Navigation Bar**: Quick access to other sections of the website.
 
-![Homepage](images/homepage.png)
+![Homepage](images/updatedhomepage.png)
 
 ### Recipe Page
 
@@ -30,16 +30,16 @@ Dive into the details of each recipe on our Recipe Page:
 - **Instructions**: Step-by-step guide to cooking the perfect dish.
 - **Image**: Visual representation of the final product.
 
-![Recipe Page](images/recipepage.png)
+![Recipe Page](images/updatedrecipepage.png)
 
 ### Recipe List Page
 
 Browse through our collection of recipes with ease on the Recipe List Page:
 
-- **Recipe Cards**: Each card displays the dish name, image, and cost.
-- **Cost**: See how budget-friendly each recipe is at a glance.
+- **Recipe Cards**: Each card displays the dish name, image, and description
+- **Recipe Link**: Clicking on the name leads to the page associated with the recipe
 
-![Recipe List Page](images/recipelistpage.png)
+![Recipe List Page](images/updatedrecipelistpage.png)
 
 ### Profile Page
 
