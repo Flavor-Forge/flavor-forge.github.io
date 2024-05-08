@@ -1,4 +1,4 @@
-# FlavorForge <br/> Let us cook
+# FlavorForge: <br/> Let us cook
 
 Welcome to FlavorForge, your go-to platform for affordable and delicious recipes tailored for college students! Here's everything you need to know about our project:
 
