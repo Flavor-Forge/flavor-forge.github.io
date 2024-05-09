@@ -66,14 +66,14 @@ If you ever want to change your information, FlavorForge has you covered:
 ### Add Recipe Page
 
 This page allows you to add your recipe for the community to see. Get started now and if you're rated highly enough you might even be featured on the Home Page!
--**Name**: Here you can list the name of the dish
--**Description**: Give a short description for those who have never tried it before
--**Ingredient Name**: Add the ingredients
-   -**Quantity**: List the quantity of the ingredient to add.
-   -**Price**: Tell people how much this ingredient costs so they can see how much they save.
--**Instructions**: Here you can tell people how to make the dish, give them a step-by-step tutorial.
--**Picture**: Submit a link to a picture of your dish to add it to the recipe.
--**Rating**: Be the first one to give yourself a rating, be sure to be honest.
+- **Name**: Here you can list the name of the dish
+- **Description**: Give a short description for those who have never tried it before
+- **Ingredient Name**: Add the ingredients
+   - **Quantity**: List the quantity of the ingredient to add.
+   - **Price**: Tell people how much this ingredient costs so they can see how much they save.
+- **Instructions**: Here you can tell people how to make the dish, give them a step-by-step tutorial.
+- **Picture**: Submit a link to a picture of your dish to add it to the recipe.
+- **Rating**: Be the first one to give yourself a rating, be sure to be honest.
 
 ![Add Recipe page](images/addrecipepage.png)
 
@@ -135,60 +135,60 @@ It’s significantly easier to do development with ESLint integrated directly in
 
 <h4>Justine P.</h4>
 Positives:
--Love how the ratings update everytime you click.
--Really cool idea would definitely use it if there was a large user-base
--Filter function works live as you type
+- Love how the ratings update everytime you click.
+- Really cool idea would definitely use it if there was a large user-base
+- Filter function works live as you type
 
 Negatives:
--Wishes the profile page had more information
--Wishes it was more interactive between community members
+- Wishes the profile page had more information
+- Wishes it was more interactive between community members
 
 Suggestions: Maybe you could implement a comment system so students can communicate with each other.
 
 <h4>Josh S.</h4>
 Positives:
--Could definitely see himself using it
--Likes the featured recipe card because he has a hard time choosing options
--Likes that he can set his own profile picture and can see his recipes all in one place
+- Could definitely see himself using it
+- Likes the featured recipe card because he has a hard time choosing options
+- Likes that he can set his own profile picture and can see his recipes all in one place
 
 Negatives:
--Wishes the recipe cards were more colorful
--Wants to filter by tags or type of food
+- Wishes the recipe cards were more colorful
+- Wants to filter by tags or type of food
 
 Suggetions: Expand on the filtering so he can look for specific ingredients.
 
 <h4>Brooke M.</h4>
 Positives:
--Likes how big the recipe page displays, hates struggling to read recipes off of his phone
--UI looks really clean no cluttered screens, really easy to navigate
--Thinks it is a cool way to connect with the UH community
+- Likes how big the recipe page displays, hates struggling to read recipes off of his phone
+- UI looks really clean no cluttered screens, really easy to navigate
+- Thinks it is a cool way to connect with the UH community
 
 Negatives:
--Want more ways to connect with other students
--Wants the profile page to be more customizeable and personal
+- Want more ways to connect with other students
+- Wants the profile page to be more customizeable and personal
 
 Suggestions: Let students communicate with each other so they can cook together!
 
 <h4>Jody H.</h4>
 Postives:
--Loves the logo, especially because its 100% original
--Likes how the recipe list shows the pictures of the recipes as well, makes it easy to preview the dish and make a choice
--Likes how many different recipes there are and how many are local recipes that are hard to find online
+- Loves the logo, especially because its 100% original
+- Likes how the recipe list shows the pictures of the recipes as well, makes it easy to preview the dish and make a choice
+- Likes how many different recipes there are and how many are local recipes that are hard to find online
 
 Negatives:
--Wants more local recipes, says there are never enough hopes others add their family favorites
--Wishes the ratings displayed on the recipe list so he can choose even easier
+- Wants more local recipes, says there are never enough hopes others add their family favorites
+- Wishes the ratings displayed on the recipe list so he can choose even easier
 
 Suggestions: show ratings on recipe list page, add recipe categories so he can find what he likes easier.
 
 <h4>Emily N.</h4>
 Postives:
--Likes the use of the KCC culinary school photo, knows their food is good and makes her want to check it out
--Likes that all her recipes can be found on the profile page, like an achievement
+- Likes the use of the KCC culinary school photo, knows their food is good and makes her want to check it out
+- Likes that all her recipes can be found on the profile page, like an achievement
 
 Negatives:
--Was dissapointed that none of the recipes came from the cullinary school
--Did not like the UI and said the color was too bright
+- Was dissapointed that none of the recipes came from the cullinary school
+- Did not like the UI and said the color was too bright
 
 Suggestions: Add a way to save your favorite recipes.
 
