@@ -134,6 +134,7 @@ It’s significantly easier to do development with ESLint integrated directly in
 ### Community Feedback
 
 <h4>Justine P.</h4>
+
 Positives:
 - Love how the ratings update everytime you click.
 - Really cool idea would definitely use it if there was a large user-base
@@ -146,6 +147,7 @@ Negatives:
 Suggestions: Maybe you could implement a comment system so students can communicate with each other.
 
 <h4>Josh S.</h4>
+
 Positives:
 - Could definitely see himself using it
 - Likes the featured recipe card because he has a hard time choosing options
@@ -158,6 +160,7 @@ Negatives:
 Suggetions: Expand on the filtering so he can look for specific ingredients.
 
 <h4>Brooke M.</h4>
+
 Positives:
 - Likes how big the recipe page displays, hates struggling to read recipes off of his phone
 - UI looks really clean no cluttered screens, really easy to navigate
@@ -170,6 +173,7 @@ Negatives:
 Suggestions: Let students communicate with each other so they can cook together!
 
 <h4>Jody H.</h4>
+
 Postives:
 - Loves the logo, especially because its 100% original
 - Likes how the recipe list shows the pictures of the recipes as well, makes it easy to preview the dish and make a choice
@@ -182,6 +186,7 @@ Negatives:
 Suggestions: show ratings on recipe list page, add recipe categories so he can find what he likes easier.
 
 <h4>Emily N.</h4>
+
 Postives:
 - Likes the use of the KCC culinary school photo, knows their food is good and makes her want to check it out
 - Likes that all her recipes can be found on the profile page, like an achievement
