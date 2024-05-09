@@ -40,7 +40,7 @@ Browse through our collection of recipes with ease on the Recipe List Page. This
 - **Recipe Link**: Clicking on the name leads to the page associated with the recipe
 - **Filter Bar**: Here you can type the name of your recipe to search for it or simply type a letter to sort.
 
-![Recipe List Page](images/updatedrecipelistpage.png)
+![Recipe List Page](images/recipe-page.png)
 
 ### Profile Page
 
@@ -73,7 +73,9 @@ This page allows you to add your recipe for the community to see. Get started no
    -**Price**: Tell people how much this ingredient costs so they can see how much they save.
 -**Instructions**: Here you can tell people how to make the dish, give them a step-by-step tutorial.
 -**Picture**: Submit a link to a picture of your dish to add it to the recipe.
--**Rating**: Be the first one to give yourself a rating, be sure to be honest[](url)
+-**Rating**: Be the first one to give yourself a rating, be sure to be honest.
+
+![Add Recipe page](images/addrecipepage.png)
 
 ## Community Feedback
 
