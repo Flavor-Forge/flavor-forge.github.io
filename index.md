@@ -79,6 +79,8 @@ Ready to dive into development? Follow these steps:
 
 ## Links
 
+![ci-badge](https://github.com/Flavor-Forge/flavor-forge/workflows/ci-flavor-forge/badge.svg)
+
 - **GitHub Organization**: [Flavor-Forge](https://github.com/Flavor-Forge)
 - **Running Deployment**: [FlavorForge on Digital Ocean](http://159.223.193.159)
 - **M1 Project**: [M1 Project Page](https://github.com/orgs/Flavor-Forge/projects/1)
