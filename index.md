@@ -4,7 +4,7 @@ Welcome to FlavorForge, your go-to platform for affordable and delicious recipes
 
 ## Overview
 
-FlavorForge is designed to revolutionize the way college students approach cooking. Our platform provides a space where students can easily discover and share recipes that are perfectly suited to their limited resources and dietary preferences. Our goal is to empower students to cook nutritious and tasty meals using minimal kitchen facilities and readily available ingredients near their campus.
+FlavorForge's purpose is to facilitate college students and their budget. Our platform provides a space where students can easily discover and share recipes that are perfectly suited to their limited resources and dietary preferences. Our goal is to empower students to cook nutritious and tasty meals using minimal kitchen facilities and readily available ingredients near their campus. Campus meal plans and on-campus restaurants can be expensive and FlavorForge is here to help students save without sacrificing flavor.
 
 ## User Guide
 
