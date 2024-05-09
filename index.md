@@ -52,7 +52,7 @@ Customize your FlavorForge experience on your Profile Page.
 - **Posted Recipes**: Showcase your culinary creations.
 - **Favorite Recipes**: Keep track of recipes you love.
 
-![Profile Page](images/profilepage.png)
+![Profile Page](images/profile-page.png)
 
 ### Update Profile Page
 
